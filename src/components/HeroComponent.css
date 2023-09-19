@@ -1,0 +1,6 @@
+@media (max-width: 576px) {
+    .d-sm-block {
+      display: none !important;
+    }
+  }
+  

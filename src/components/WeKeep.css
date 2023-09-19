@@ -1,0 +1,10 @@
+.desktop-only {
+    display: inline-block; /* Show on desktop screens */
+  }
+  
+  @media (max-width: 768px) {
+    .desktop-only {
+      display: none; /* Hide on mobile screens */
+    }
+  }
+  
